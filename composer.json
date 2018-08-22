@@ -1,5 +1,5 @@
 {
-    "name": "yethee/enum-bundle",
+    "name": "fsd/enum-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides a typed enumeration for Symfony2 applications",
     "keywords": ["typed enumeration"],
