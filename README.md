@@ -21,7 +21,7 @@ This bundle provides a typed enumeration for your Symfony2 project.
 Install the bundle by running in a shell:
 
 ```bash
-$ composer require yethee/enum-bundle
+$ composer require fsd/enum-bundle
 ```
 
 Add the bundle to your application kernel
